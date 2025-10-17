@@ -39,7 +39,7 @@ If you encounter any trouble running the demos, have questions, or have any sugg
   * **Email**: [mbarillas@xtillion.com](mailto:mbarillas@xtillion.com)
   * **LinkedIn**: [Marcelo Barillas](https://www.linkedin.com/in/marcelo-barillas/)
 
-We're happy to help and always open to feedback!
+We are happy to help and always open to feedback!
 
 ## Learn More About Xtillion
 
